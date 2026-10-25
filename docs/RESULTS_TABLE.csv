@@ -1,0 +1,15 @@
+Section,Cohort,Test_Images,Total_Spaces,TP,TN,FP,FN,Accuracy,Precision,Recall_Sensitivity,Specificity,F1_Score,ROC_AUC
+Overall,Overall Test Partition,90,4928,1959,2467,297,205,89.8%,86.8%,90.5%,89.3%,88.6%,0.9510
+Lot,PUCPR (All Weathers),30,3000,1259,1453,161,127,90.4%,88.7%,90.8%,90.0%,89.7%,0.9598
+Lot,UFPR04 (All Weathers),30,728,223,358,116,31,79.8%,65.8%,87.8%,75.5%,75.2%,0.8781
+Lot,UFPR05 (All Weathers),30,1200,477,656,20,47,94.4%,96.0%,91.0%,97.0%,93.4%,0.9822
+Cohort,PUCPR_Cloudy,10,1000,408,560,17,15,96.8%,96.0%,96.5%,97.1%,96.2%,Not available
+Cohort,PUCPR_Rainy,10,1000,552,311,40,97,86.3%,93.2%,85.1%,88.6%,89.0%,Not available
+Cohort,PUCPR_Sunny,10,1000,299,582,104,15,88.1%,74.2%,95.2%,84.8%,83.4%,Not available
+Cohort,UFPR04_Cloudy,10,224,19,125,76,4,64.3%,20.0%,82.6%,62.2%,32.2%,Not available
+Cohort,UFPR04_Rainy,10,224,56,141,18,9,88.0%,75.7%,86.2%,88.7%,80.6%,Not available
+Cohort,UFPR04_Sunny,10,280,148,92,22,18,85.7%,87.1%,89.2%,80.7%,88.1%,Not available
+Cohort,UFPR05_Cloudy,10,400,156,216,7,21,93.0%,95.7%,88.1%,96.9%,91.8%,Not available
+Cohort,UFPR05_Rainy,10,400,163,215,6,16,94.5%,96.5%,91.1%,97.3%,93.7%,Not available
+Cohort,UFPR05_Sunny,10,400,158,225,7,10,95.8%,95.8%,94.1%,97.0%,94.9%,Not available
+

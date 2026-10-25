@@ -1,0 +1,28 @@
+# ParkLens data directory
+# Downloaded data goes here; not committed to git.
+data/PKLot/
+data/index.json
+data/MANIFEST.json
+*.pyc
+__pycache__/
+.venv/
+.mpl_cache/
+outputs/*.png
+outputs/*.csv
+outputs/*.json
+!outputs/.gitkeep
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Local configuration
+config.local.py
+
+.streamlit/credentials.toml
